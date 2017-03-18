@@ -46,6 +46,7 @@
   - [TeX](#tex)
   - [Thrift](#thrift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim script)
   - [VimL](#viml)
   - [Vue](#vue)
 
@@ -63,6 +64,8 @@
 
 ## C 
 
+- [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+- [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
 - [captcha](https://github.com/trekjs/captcha) - A Lightweight Captcha (C++) for Node.js. No ImageMagick, No canvas.
 - [zlog](https://github.com/HardySimpson/zlog) - A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.
 - [lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
@@ -100,7 +103,7 @@
 ## C# # 
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
-- [react-native-windows](https://github.com/ReactWindows/react-native-windows) - A framework for building native apps with React.
+- [react-native-windows](https://github.com/Microsoft/react-native-windows) - A framework for building native UWP and WPF apps with React.
 - [gogotester](https://github.com/azzvx/gogotester) - 
 - [tutorial-2d-game-unity](https://github.com/pixelnest/tutorial-2d-game-unity) - A tutorial for Unity where you will learn how to make a quite complete 2D shoot them up. See the link for the full resources
 - [CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
@@ -111,6 +114,7 @@
 
 ## C++ 
 
+- [node-tensorflow](https://github.com/node-tensorflow/node-tensorflow) - Node-tensorflow is a NodeJS API for utilizing Google's machine learning library TensorFlow.
 - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - Node.js bindings for librdkafka
 - [fibjs](https://github.com/xicilion/fibjs) - JavaScript on Fiber (based on Chrome V8 engine)
 - [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
@@ -171,6 +175,8 @@
 
 ## CSS 
 
+- [web-presentation](https://github.com/ChristianKohler/web-presentation) - Pure Web Components Presentation Framework
+- [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [perf.rocks](https://github.com/danielguillan/perf.rocks) - Curated resources that help you build lightning fast websites
 - [graphql-ide](https://github.com/redound/graphql-ide) - ⚡️ GraphQL IDE - An extensive IDE for exploring GraphQL API's
 - [user-management](https://github.com/cosmicjs/user-management) - A user management example app
@@ -184,7 +190,6 @@
 - [photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [blog](https://github.com/jlongster/blog) - All the sources for my (not powered by React anymore) blog
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
-- [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [AnimateTransition](https://github.com/Rapid-Application-Development-JS/AnimateTransition) - Library for transition animations between blocks (pages) in the application.
 - [screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
@@ -278,7 +283,7 @@
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, HashBidiMap, TreeBidiMap, RedBlackTree, BTree, BinaryHeap, Comparator, Iterator, Enumerable, Sort
+- [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [kite](https://github.com/koding/kite) - Micro-service framework in Go
@@ -335,6 +340,9 @@
 
 ## HTML 
 
+- [mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
+- [postman-bdd](https://github.com/BigstickCarpet/postman-bdd) - A BDD test framework for Postman and Newman
+- [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web using ARToolKit - 60fps on mobile!
 - [rekit-portal](https://github.com/supnate/rekit-portal) - Web UI for managing a Rekit project.
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
@@ -433,6 +441,7 @@
 
 ## Java 
 
+- [native-navigation](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - Lottie wrapper for React Native.
 - [react-native-workers](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [DDD](https://github.com/easonyuan/DDD) - Domain-driven design principle
@@ -443,7 +452,7 @@
 - [wycheproof](https://github.com/google/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [MSEC](https://github.com/Tencent/MSEC) - Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.
 - [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Developers on GitHub, GitLab and Bitbucket.
-- [BookReader](https://github.com/JustWayward/BookReader) - "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、字体/主题/亮度设置、Wifi传书等功能~
+- [BookReader](https://github.com/JustWayward/BookReader) - :closed_book:  "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、字体/主题/亮度设置、Wifi传书等功能~
 - [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 - [mpush](https://github.com/mpusher/mpush) - MPush开源实时消息推送系统
 - [openrtb](https://github.com/google/openrtb) - OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
@@ -453,12 +462,11 @@
 - [todolist](https://github.com/nonocast/todolist) - A simple todolist system implemented with Spring's backend and TypeScript/React's frontend. Enjoy it.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [gerrit](https://github.com/gerrit-review/gerrit) - Gerrit Code Review (mirror only). DO NOT SUBMIT PULL REQUESTS HERE. Use https://gerrit-review.googlesource.com instead.
-- [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-- [react-native-invoke](https://github.com/wix/react-native-invoke) - Invoke any native code directly from Javascript in React Native (without wrapping it first with a native manager)
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [alluxio](https://github.com/Alluxio/alluxio) - Alluxio, formerly Tachyon, Unify Data at Memory Speed
 - [heron](https://github.com/twitter/heron) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [distributedlog](https://github.com/twitter/distributedlog) - A high performance replicated log service. (The development is moved to Apache Incubator)
+- [react-native-proximity](https://github.com/williambout/react-native-proximity) - :iphone: A React Native wrapper that provides access to the proximity sensor on iOS and Android.
 - [zxing](https://github.com/zxing/zxing) - Official ZXing ("Zebra Crossing") project home
 - [cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台
 - [NetEasy](https://github.com/xoder-me/NetEasy) - 仿照网易云音乐(2.9.0)界面的练习项目
@@ -512,6 +520,41 @@
 
 ## JavaScript 
 
+- [frint](https://github.com/Travix-International/frint) - The Modular JavaScript Framework
+- [duplicate-package-checker-webpack-plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - Webpack plugin that warns you when multiple versions of the same package exist in a build
+- [server](https://github.com/localtunnel/server) - server for localtunnel.me
+- [react-fiber-example](https://github.com/duivvv/react-fiber-example) - 💡 A module / ES6 rebuild of the React Fiber example
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [electrode-explorer](https://github.com/electrode-io/electrode-explorer) - An Electrode application that showcases all of your components in a live demo
+- [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
+- [electrode](https://github.com/electrode-io/electrode) - Electrode Platform for Universal React + Node application
+- [microgateway](https://github.com/strongloop/microgateway) - IBM API Connect Microgateway framework, built on Node.js & Nginx
+- [sketch-react-native-apps](https://github.com/Dorian/sketch-react-native-apps) - List of react native apps on https://sketch.expo.io
+- [Particle](https://github.com/ParticleCore/Particle) - 
+- [draw.io](https://github.com/jgraph/draw.io) - Source to www.draw.io
+- [react-native-foldview](https://github.com/jmurzy/react-native-foldview) - FoldView implemented in JavaScript ⛱
+- [updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
+- [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
+- [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
+- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+- [cavy](https://github.com/pixielabs/cavy) - An integration test framework for React Native.
+- [autocomplete.js](https://github.com/algolia/autocomplete.js) - :crystal_ball: Fast and full-featured autocomplete library
+- [npm-compare](https://github.com/sanchitgn/npm-compare) - Compare npm packages from your terminal
+- [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
+- [gitify](https://github.com/manosim/gitify) - GitHub Notifications on your menu bar.
+- [WeFlow](https://github.com/weixin/WeFlow) - 一个高效、强大、跨平台的 Web 前端开发工作流工具
+- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps.
+- [react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
+- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [react-conf-app](https://github.com/Thinkmill/react-conf-app) - React Conf 2017 Companion App - built with React Native
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. With your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
+- [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
+- [planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
+- [oao](https://github.com/guigrpa/oao) - A Yarn-based, opinionated monorepo management tool
+- [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Cross-platform snippet/note manager based on GitHub Gist.
+- [JSONStream](https://github.com/dominictarr/JSONStream) - rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)
+- [samples](https://github.com/johnnynotsolucky/samples) - 
 - [rapscallion](https://github.com/FormidableLabs/rapscallion) - Asynchronous React VirtualDOM renderer for SSR.
 - [happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces
 - [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash
@@ -532,7 +575,7 @@
 - [hacknical](https://github.com/ecmadao/hacknical) - A website for github user to make a better resume.
 - [gonzales-pe](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors
 - [GraphicsJS](https://github.com/AnyChart/GraphicsJS) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
-- [TA.Gui](https://github.com/tebelorg/TA.Gui) - Tool for non-developers and business users to automate web apps
+- [TA.Gui](https://github.com/tebelorg/TA.Gui) - :robot: Tool for non-developers and business users to automate web apps
 - [ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: The react animation solution
 - [fmt-obj](https://github.com/queckezz/fmt-obj) - Prettifies any javascript object in your console. Make it look awesome! :lipstick:
 - [tab-emitter](https://github.com/ArtskydJ/tab-emitter) - :speech_balloon: An event emitter for same-origin tab communication
@@ -552,7 +595,7 @@
 - [ddm](https://github.com/phodal/ddm) - A simple DDD library by powerful. Design for Front-End to create Bounded Context Model.
 - [DDDTools.ts](https://github.com/selganor74/DDDTools.ts) - A set of DDD tools in typescript
 - [tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app for programmers.🚀 Evernote for programmers!
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app.🚀 Evernote alternative for programmers!
 - [dev-toolkit](https://github.com/stoikerty/dev-toolkit) - Development Toolkit for React Veterans
 - [pkglink](https://github.com/jeffbski/pkglink) - Space saving Node.js package hard linker. pkglink locates common JavaScript/Node.js packages from your node_modules directories and hard links the package files so they share disk space.
 - [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js) - :rabbit2: Fastest possible memoization library
@@ -588,7 +631,7 @@
 - [musicafe](https://github.com/LIU9293/musicafe) - musicafe音乐咖 — 网易、虾米、QQ音乐一处搞定
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [marko](https://github.com/marko-js/marko) - Simple, intuitive, performant UI components and templates
-- [botpress](https://github.com/botpress/botpress) - 🤖  The only sane way of building great bots. 👉
+- [botpress](https://github.com/botpress/botpress) - 🤖  The only sane way to build great bots. 👉
 - [amphtml](https://github.com/ampproject/amphtml) - AMP HTML source code, samples, and documentation.  See below for more info.
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [action](https://github.com/ParabolInc/action) - A multiplayer web application for building smarter, more agile teams.
@@ -609,7 +652,7 @@
 - [EasyReader](https://github.com/YouYII/EasyReader) - 基于React native 的开源小说阅读器
 - [diffyjs](https://github.com/maniart/diffyjs) - A dependency-free motion detection library for the browser
 - [react-native-nike-running](https://github.com/sonnylazuardi/react-native-nike-running) - 🏃 UI & UX Prototype of redesigned Nike+ Running App
-- [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark() and measure()
+- [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)
 - [magellan](https://github.com/TestArmada/magellan) - Large Scale Automated Testing for Mocha, Nighwatch, and Nodejs
 - [node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
 - [hashlru](https://github.com/dominictarr/hashlru) - 
@@ -653,7 +696,7 @@
 - [lokka](https://github.com/kadirahq/lokka) - Simple JavaScript Client for GraphQL
 - [join-monster](https://github.com/stems/join-monster) - A GraphQL to SQL query execution layer for query planning and batch data fetching.
 - [Winds](https://github.com/GetStream/Winds) - Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node and Stream (https://getstream.io). It showcases personalized feeds powered by the https://getstream.io API. This tutorial explains how the personalization API works (http://bit.ly/personalization-winds). Try the online demo:
-- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively + Eslint Plugin
+- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively + ESLint Plugin
 - [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
 - [whitestorm.js](https://github.com/WhitestormJS/whitestorm.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
@@ -719,7 +762,7 @@
 - [appmetrics.js](https://github.com/ebidel/appmetrics.js) - A small (&lt; 1kb) library for measuring things in your web app and reporting the results to Google Analytics.
 - [koa-monitor](https://github.com/capaj/koa-monitor) - 🚀 Realtime Monitoring solution for koa.js, inspired by status.github.com
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
-- [conventional-changelog-cli](https://github.com/conventional-changelog/conventional-changelog-cli) - :pencil2::scroll: Generate a changelog from git metadata
+- [conventional-changelog-cli](https://github.com/conventional-changelog-archived-repos/conventional-changelog-cli) - :pencil2::scroll: Generate a changelog from git metadata
 - [release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repos. Bump version, commit, tag, push, build, publish to npm.
 - [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safely and quickly serialize JavaScript objects
 - [waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, redis, and more
@@ -812,7 +855,7 @@
 - [todomvc-react-native](https://github.com/bakery/todomvc-react-native) - TodoMVC using React Native + Redux + Parse Server + GraphQL
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native
 - [react-native-theme](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
-- [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
+- [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
 - [react-native-offline-first](https://github.com/philipshurpik/react-native-offline-first) - Example of offline-first app with React Native
 - [webtorrent-share](https://github.com/binux/webtorrent-share) - share files via webtorrent
 - [react-native-gallery](https://github.com/ldn0x7dc/react-native-gallery) - A pure JavaScript image gallery component for react-native apps with common gestures like pan, pinch and doubleTap, supporting both iOS and Android.
@@ -1011,7 +1054,7 @@
 - [rnplay-web](https://github.com/rnplay/rnplay-web) - Rails application for the React Native Playground website
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
-- [xde](https://github.com/exponent/xde) - The Exponent Development Environment
+- [xde](https://github.com/exponent/xde) - The Expo Development Environment
 - [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) - Dribbble app built with React Native
 - [npm](https://github.com/npm/npm) - a package manager for javascript
 - [node-spdyproxy](https://github.com/igrigorik/node-spdyproxy) - SPDY forwarding proxy - fast and secure
@@ -1083,6 +1126,7 @@
 - [scrat](https://github.com/scrat-team/scrat) - Webapp Modular Framework
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript
 - [isomorphic500](https://github.com/gpbl/isomorphic500) - A 500px app built with React and Fluxible with babeljs
 - [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) - Use this method to retrieve all amazing awesomeness from Github
@@ -1274,7 +1318,7 @@
 - [raml-js-parser](https://github.com/raml-org/raml-js-parser) - A RAML parser based on PyYAML written in CoffeScript and available for use as NodeJs module or in-browser.
 - [q-io](https://github.com/kriskowal/q-io) - Interfaces for IO using Q promises in JavaScript on Node
 - [raml-store](https://github.com/brianmc/raml-store) - This project provides an persistent store for RAML files created using then embedded API Designer
-- [node-raml-validate](https://github.com/mulesoft/node-raml-validate) - Strict validation of RAML parameters in JavaScript
+- [node-raml-validate](https://github.com/mulesoft-labs/node-raml-validate) - Strict validation of RAML parameters in JavaScript
 - [api-designer](https://github.com/mulesoft/api-designer) - A web editor for creating and sharing RAML API specifications
 - [hummingbird](https://github.com/mnutt/hummingbird) - Real time web analytics using node.js and web sockets
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
@@ -1333,7 +1377,7 @@
 - [levelup](https://github.com/Level/levelup) - LevelDB - Node.js style
 - [node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 - [psi](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting
-- [octotree](https://github.com/buunguyen/octotree) - Code tree for GitHub and GitLab
+- [octotree](https://github.com/buunguyen/octotree) - Code tree for GitHub
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system
 - [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
 - [svgeezy](https://github.com/benhowdle89/svgeezy) - Allows for automatic Image fallbacks for browsers that can't handle SVGs
@@ -1674,7 +1718,7 @@
 - [demonstory](https://github.com/douban-f2e/demonstory) - 2012尾牙节目
 - [flight](https://github.com/flightjs/flight) - A component-based, event-driven JavaScript framework from Twitter
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
+- [textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
 - [jquery-mousewheel](https://github.com/nightstomp/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
 - [x18n](https://github.com/florian/x18n) - A sane JavaScript internationalisation library
@@ -1806,7 +1850,7 @@
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [data](https://github.com/substance/data) - A uniform interface for domain data (deprecated)
 - [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript. It's also a parser!
-- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - UNMAINTAINED - A localStorage adapter for Backbone.js
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
 - [doctorjs](https://github.com/mozilla/doctorjs) - A set of static analysis tools for JavaScript
 - [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -1876,10 +1920,9 @@
 
 - [bluepill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [react-native-mobx](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
-- [exponent](https://github.com/exponent/exponent) - Exponent iOS/Android Client
+- [exponent](https://github.com/exponent/exponent) - Expo iOS/Android Client
 - [react-native-card-io](https://github.com/kayla-tech/react-native-card-io) - card.io component for React Native
 - [react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native.
-- [react-native-proximity](https://github.com/williambout/react-native-proximity) - :iphone: A React Native wrapper that provides access to the state of the proximity sensor on iOS.
 - [versioning-react-native-app](https://github.com/AndrewJack/versioning-react-native-app) - :arrow_up: How to version a React Native app using npm version.
 - [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - :herb: Build your React Native app with Webpack and Babel
 - [react-native-spinkit](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
@@ -1890,7 +1933,7 @@
 - [react-native-hybrid-app-examples](https://github.com/dsibiski/react-native-hybrid-app-examples) - A collection of examples for using React Native in an existing iOS application
 - [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - An easy way to use pull-to-refresh.
 - [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
-- [zulip-ios](https://github.com/zulip/zulip-ios) - Zulip iOS app
+- [zulip-ios-legacy](https://github.com/zulip/zulip-ios-legacy) - Zulip legacy iOS app
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
 - [macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -1916,6 +1959,8 @@
 
 ## Others 
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
+- [react-vr](https://github.com/facebookincubator/react-vr) - Issues-only repo for React VR - a React Native platform to run 3D and WebVR content.
 - [js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
 - [Natural-Language-Processing](https://github.com/JustFollowUs/Natural-Language-Processing) - 
@@ -1939,6 +1984,7 @@
 - [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - Deep learning tutorials (2nd ed.)
 - [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [open-source-react-native-apps](https://github.com/maxenceC/open-source-react-native-apps) - Collaborative List of Open-Source React Native apps
+- [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [vscode-tips](https://github.com/tstringer/vscode-tips) - :bulb: Visual Studio Code tips and quick reference
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
 - [vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
@@ -1985,7 +2031,7 @@
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
-- [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
+- [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [react-native-community](https://github.com/ericvicenti/react-native-community) - Community Contributions to React Native
 - [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
@@ -2070,8 +2116,8 @@
 - [paperwork](https://github.com/twostairs/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [openbay](https://github.com/isohuntto/openbay) - 
 - [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
-- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for writing presentations files
-- [cphalcon](https://github.com/phalcon/cphalcon) - Web framework delivered as a C-extension for PHP
+- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents
+- [cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 - [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
 - [duoshuo-wordpress](https://github.com/duoshuo/duoshuo-wordpress) - 多说评论插件 for WordPress
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
@@ -2101,6 +2147,8 @@
 
 ## Python 
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
+- [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat:HelloGitHub月刊
 - [mxnet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
@@ -2128,7 +2176,7 @@
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 - [easybuild](https://github.com/hpcugent/easybuild) - EasyBuild - building software with ease
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
-- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow,1800+ integrations (see /st2contrib), native ChatOps and so forth.  Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see /st2contrib), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
 - [augmented-traffic-control](https://github.com/facebook/augmented-traffic-control) - Augmented Traffic Control: A tool to simulate network conditions
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
@@ -2141,7 +2189,7 @@
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 - [deprecated.pies](https://github.com/timothycrosley/deprecated.pies) - The simplest (and tastiest) way to write one program that runs on both Python 2 and Python 3.
-- [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
+- [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard) - Chromium Dashboard
 - [huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [nova](https://github.com/openstack/nova) - OpenStack Compute (Nova)
@@ -2257,14 +2305,20 @@
 
 ## TypeScript 
 
+- [vscode-node-module-intellisense](https://github.com/leizongmin/vscode-node-module-intellisense) - Visual Studio Code plugin that autocompletes JavaScript / TypeScript modules in import statements.
+- [vscode-react-native](https://github.com/Microsoft/vscode-react-native) - VSCode extension for react native - supports syntax highlighting, debugging and editor integration
+- [html-looks-like](https://github.com/staltz/html-looks-like) - Assert that an HTML string looks approximately the same as another HTML
+- [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
+- [vscode-languageserver-node](https://github.com/Microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
 - [online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in typescript, featuring Webpack 2, Jest, TSLint, Semantic Release, and more!
+- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring Webpack 2, Jest, TSLint, Semantic Release, and more!
 - [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG path morphing animation editor
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 - [inversify-basic-example](https://github.com/inversify/inversify-basic-example) - A basic example that showcases how to setup InversifyJS
-- [wetland](https://github.com/SpoonX/wetland) - An enterprise-grade ORM for Node.js written in typescript. Works with MySQL, PostgreSQL, SQLite and more.
+- [wetland](https://github.com/SpoonX/wetland) - A Mapping-based ORM for Node.js. Works with MySQL, PostgreSQL, SQLite and more.
 - [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM for Node.js
 - [enterprise-node-typescript](https://github.com/timwhit/enterprise-node-typescript) - TypeScript + Node.js Enterprise Patterns
 - [graphql-typeorm-passport-boilerplate](https://github.com/ericwooley/graphql-typeorm-passport-boilerplate) - A boilerplate for passport, typeorm, and graphql
@@ -2298,7 +2352,7 @@
 - [InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [swapi-apollo](https://github.com/nnance/swapi-apollo) - An Apollo server wrapping SWAPI
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language
-- [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured caching GraphQL client for any server or UI framework
+- [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: The fully-featured, production ready caching GraphQL client for every server or UI framework
 - [xterm.js](https://github.com/sourcelair/xterm.js) - Full xterm terminal, in your browser
 - [perf-monitor](https://github.com/localvoid/perf-monitor) - Performance monitor. Simple UI component that helps you measure performance.
 - [PlayApp](https://github.com/rodrigopivi/PlayApp) - A boilerplate chat application on top of React, React-Native, Relay, GraphQL, RethinkDB and Typescript
@@ -2317,19 +2371,22 @@
 - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
+## Vim script 
+
+- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+
 ## VimL 
 
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
 - [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc) - Maple's vim config files
-- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 
 ## Vue 
 
 - [vue-semantic](https://github.com/CroudSupport/vue-semantic) - A collection of vue components for integrating the semantic ui library
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [vux](https://github.com/airyland/vux) - Mobile web UI Components based on Vue and WeUI (Vue@2.x)
+- [vux](https://github.com/airyland/vux) - Vue UI Components based on WeUI
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
